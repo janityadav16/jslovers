@@ -57,3 +57,38 @@ a:visited {
     align-items: center;
     justify-content: center;
 }
+.header .left h1 img{
+    width:30%;
+}
+
+.header .right{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+.header .right {
+    display: block;
+}
+.left div {
+    margin-top:10px;
+}
+.left div {
+    background: #eaff00;
+    color: #000;
+    line-height: 63px;
+    font-weight: bold;
+    font-size:53px;
+}
+.left{
+ font-size: 43px;
+    line-height: 51px;
+}
+.header .left div  {
+    font-size: 43px;
+    line-height: 51px;
+}
+h3{
+margin-bottom: 10px;
+
+}
